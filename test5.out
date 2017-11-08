@@ -1,0 +1,140 @@
+Processing Try Number: 1
+MESSAGELENGTH: 64
+NUMBERMESSAGE:
+    136394948 segments received
+    188799616 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+ttcp-tbytes=0 time=11 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=63 Mbps=0 I/Ocalls=1
+    136394954 segments received
+    188799625 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+
+Processing Try Number: 2
+MESSAGELENGTH: 64
+NUMBERMESSAGE:
+    136394960 segments received
+    188799629 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+ttcp-tbytes=0 time=11 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    136394966 segments received
+    188799638 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+
+Processing Try Number: 3
+MESSAGELENGTH: 64
+NUMBERMESSAGE:
+    136394970 segments received
+    188799641 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+ttcp-tbytes=0 time=11 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=2 Mbps=0 I/Ocalls=1
+    136394976 segments received
+    188799650 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+
+Processing Try Number: 4
+MESSAGELENGTH: 64
+NUMBERMESSAGE:
+    136394980 segments received
+    188799653 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+ttcp-tbytes=0 time=12 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=2 Mbps=0 I/Ocalls=1
+    136394988 segments received
+    188799664 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+
+Processing Try Number: 5
+MESSAGELENGTH: 64
+NUMBERMESSAGE:
+    136394995 segments received
+    188799669 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+ttcp-tbytes=0 time=10 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    136395004 segments received
+    188799681 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+
+Processing Try Number: 6
+MESSAGELENGTH: 64
+NUMBERMESSAGE:
+    136395010 segments received
+    188799686 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+ttcp-tbytes=0 time=12 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    136395018 segments received
+    188799697 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+
+Processing Try Number: 7
+MESSAGELENGTH: 64
+NUMBERMESSAGE:
+    136395024 segments received
+    188799702 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+ttcp-tbytes=0 time=12 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    136395032 segments received
+    188799713 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+
+Processing Try Number: 8
+MESSAGELENGTH: 64
+NUMBERMESSAGE:
+    136395038 segments received
+    188799720 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+ttcp-tbytes=0 time=23 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    136395046 segments received
+    188799733 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+
+Processing Try Number: 9
+MESSAGELENGTH: 64
+NUMBERMESSAGE:
+    136395052 segments received
+    188799740 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+ttcp-tbytes=0 time=20 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    136395060 segments received
+    188799753 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+
+Processing Try Number: 10
+MESSAGELENGTH: 64
+NUMBERMESSAGE:
+    136395066 segments received
+    188799760 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+ttcp-tbytes=0 time=13 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    136395074 segments received
+    188799773 segments send out
+    3892 segments retransmited
+    12 bad segments received.
+

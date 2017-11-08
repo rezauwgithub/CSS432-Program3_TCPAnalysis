@@ -1,0 +1,455 @@
+Processing Try Number with -D: 1
+MESSAGE_LENGTH: 1458
+NUMBER_MESSAGE: 46028
+./ttcp -t -l1458 -n46028 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1458, nbuf=46028, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108824 time=2180731 Mbps=246.188 I/Ocalls=46028
+ttcp-rbytes=67108824 time=2181517 Mbps=246.1 I/Ocalls=56719
+
+Processing Try Number with -D: 2
+MESSAGE_LENGTH: 1458
+NUMBER_MESSAGE: 46028
+./ttcp -t -l1458 -n46028 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1458, nbuf=46028, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108824 time=1714604 Mbps=313.116 I/Ocalls=46028
+ttcp-rbytes=67108824 time=1715316 Mbps=312.986 I/Ocalls=60214
+
+Processing Try Number with -D: 3
+MESSAGE_LENGTH: 1458
+NUMBER_MESSAGE: 46028
+./ttcp -t -l1458 -n46028 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1458, nbuf=46028, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108824 time=2280478 Mbps=235.42 I/Ocalls=46028
+ttcp-rbytes=67108824 time=2281173 Mbps=235.348 I/Ocalls=56681
+
+Processing Try Number with -D: 4
+MESSAGE_LENGTH: 1458
+NUMBER_MESSAGE: 46028
+./ttcp -t -l1458 -n46028 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1458, nbuf=46028, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108824 time=2557841 Mbps=209.892 I/Ocalls=46028
+ttcp-rbytes=67108824 time=2558599 Mbps=209.83 I/Ocalls=56956
+
+Processing Try Number with -D: 5
+MESSAGE_LENGTH: 1458
+NUMBER_MESSAGE: 46028
+./ttcp -t -l1458 -n46028 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1458, nbuf=46028, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108824 time=1915273 Mbps=280.31 I/Ocalls=46028
+ttcp-rbytes=67108824 time=1915994 Mbps=280.205 I/Ocalls=59401
+
+Processing Try Number with -D: 6
+MESSAGE_LENGTH: 1458
+NUMBER_MESSAGE: 46028
+./ttcp -t -l1458 -n46028 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1458, nbuf=46028, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108824 time=2641033 Mbps=203.281 I/Ocalls=46028
+ttcp-rbytes=67108824 time=2641718 Mbps=203.228 I/Ocalls=52015
+
+Processing Try Number with -D: 7
+MESSAGE_LENGTH: 1458
+NUMBER_MESSAGE: 46028
+./ttcp -t -l1458 -n46028 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1458, nbuf=46028, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108824 time=1840110 Mbps=291.76 I/Ocalls=46028
+ttcp-rbytes=67108824 time=1840900 Mbps=291.635 I/Ocalls=58446
+
+Processing Try Number with -D: 8
+MESSAGE_LENGTH: 1458
+NUMBER_MESSAGE: 46028
+./ttcp -t -l1458 -n46028 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1458, nbuf=46028, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108824 time=1985127 Mbps=270.446 I/Ocalls=46028
+ttcp-rbytes=67108824 time=1985423 Mbps=270.406 I/Ocalls=57767
+
+Processing Try Number with -D: 9
+MESSAGE_LENGTH: 1458
+NUMBER_MESSAGE: 46028
+./ttcp -t -l1458 -n46028 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1458, nbuf=46028, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108824 time=1965009 Mbps=273.215 I/Ocalls=46028
+ttcp-rbytes=67108824 time=1965322 Mbps=273.172 I/Ocalls=57903
+
+Processing Try Number with -D: 10
+MESSAGE_LENGTH: 1458
+NUMBER_MESSAGE: 46028
+./ttcp -t -l1458 -n46028 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1458, nbuf=46028, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108824 time=2127528 Mbps=252.345 I/Ocalls=46028
+ttcp-rbytes=67108824 time=2128241 Mbps=252.26 I/Ocalls=57912
+
+
+Processing Try Number with -D: 1
+MESSAGE_LENGTH: 1459
+NUMBER_MESSAGE: 45996
+./ttcp -t -l1459 -n45996 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1459, nbuf=45996, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108164 time=2433439 Mbps=220.62 I/Ocalls=45996
+ttcp-rbytes=67108164 time=2434176 Mbps=220.553 I/Ocalls=54744
+
+Processing Try Number with -D: 2
+MESSAGE_LENGTH: 1459
+NUMBER_MESSAGE: 45996
+./ttcp -t -l1459 -n45996 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1459, nbuf=45996, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108164 time=1806316 Mbps=297.216 I/Ocalls=45996
+ttcp-rbytes=67108164 time=1807025 Mbps=297.099 I/Ocalls=58766
+
+Processing Try Number with -D: 3
+MESSAGE_LENGTH: 1459
+NUMBER_MESSAGE: 45996
+./ttcp -t -l1459 -n45996 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1459, nbuf=45996, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108164 time=2398178 Mbps=223.864 I/Ocalls=45996
+ttcp-rbytes=67108164 time=2398905 Mbps=223.796 I/Ocalls=55137
+
+Processing Try Number with -D: 4
+MESSAGE_LENGTH: 1459
+NUMBER_MESSAGE: 45996
+./ttcp -t -l1459 -n45996 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1459, nbuf=45996, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108164 time=2363441 Mbps=227.154 I/Ocalls=45996
+ttcp-rbytes=67108164 time=2364233 Mbps=227.078 I/Ocalls=54563
+
+Processing Try Number with -D: 5
+MESSAGE_LENGTH: 1459
+NUMBER_MESSAGE: 45996
+./ttcp -t -l1459 -n45996 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1459, nbuf=45996, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108164 time=2414963 Mbps=222.308 I/Ocalls=45996
+ttcp-rbytes=67108164 time=2415703 Mbps=222.24 I/Ocalls=55148
+
+Processing Try Number with -D: 6
+MESSAGE_LENGTH: 1459
+NUMBER_MESSAGE: 45996
+./ttcp -t -l1459 -n45996 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1459, nbuf=45996, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108164 time=2682039 Mbps=200.171 I/Ocalls=45996
+ttcp-rbytes=67108164 time=2682796 Mbps=200.114 I/Ocalls=54355
+
+Processing Try Number with -D: 7
+MESSAGE_LENGTH: 1459
+NUMBER_MESSAGE: 45996
+./ttcp -t -l1459 -n45996 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1459, nbuf=45996, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108164 time=2085928 Mbps=257.375 I/Ocalls=45996
+ttcp-rbytes=67108164 time=2086372 Mbps=257.32 I/Ocalls=59506
+
+Processing Try Number with -D: 8
+MESSAGE_LENGTH: 1459
+NUMBER_MESSAGE: 45996
+./ttcp -t -l1459 -n45996 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1459, nbuf=45996, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108164 time=2137061 Mbps=251.217 I/Ocalls=45996
+ttcp-rbytes=67108164 time=2137837 Mbps=251.125 I/Ocalls=57423
+
+Processing Try Number with -D: 9
+MESSAGE_LENGTH: 1459
+NUMBER_MESSAGE: 45996
+./ttcp -t -l1459 -n45996 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1459, nbuf=45996, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108164 time=2234599 Mbps=240.251 I/Ocalls=45996
+ttcp-rbytes=67108164 time=2235309 Mbps=240.175 I/Ocalls=56897
+
+Processing Try Number with -D: 10
+MESSAGE_LENGTH: 1459
+NUMBER_MESSAGE: 45996
+./ttcp -t -l1459 -n45996 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1459, nbuf=45996, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108164 time=1831781 Mbps=293.084 I/Ocalls=45996
+ttcp-rbytes=67108164 time=1832115 Mbps=293.03 I/Ocalls=58584
+
+
+Processing Try Number with -D: 1
+MESSAGE_LENGTH: 1460
+NUMBER_MESSAGE: 45964
+./ttcp -t -l1460 -n45964 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1460, nbuf=45964, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67107440 time=2287596 Mbps=234.683 I/Ocalls=45964
+ttcp-rbytes=67107440 time=2288379 Mbps=234.603 I/Ocalls=56453
+
+Processing Try Number with -D: 2
+MESSAGE_LENGTH: 1460
+NUMBER_MESSAGE: 45964
+./ttcp -t -l1460 -n45964 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1460, nbuf=45964, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67107440 time=2119218 Mbps=253.329 I/Ocalls=45964
+ttcp-rbytes=67107440 time=2119513 Mbps=253.294 I/Ocalls=57928
+
+Processing Try Number with -D: 3
+MESSAGE_LENGTH: 1460
+NUMBER_MESSAGE: 45964
+./ttcp -t -l1460 -n45964 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1460, nbuf=45964, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67107440 time=2386867 Mbps=224.922 I/Ocalls=45964
+ttcp-rbytes=67107440 time=2387220 Mbps=224.889 I/Ocalls=54748
+
+Processing Try Number with -D: 4
+MESSAGE_LENGTH: 1460
+NUMBER_MESSAGE: 45964
+./ttcp -t -l1460 -n45964 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1460, nbuf=45964, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67107440 time=1773286 Mbps=302.748 I/Ocalls=45964
+ttcp-rbytes=67107440 time=1773637 Mbps=302.689 I/Ocalls=60279
+
+Processing Try Number with -D: 5
+MESSAGE_LENGTH: 1460
+NUMBER_MESSAGE: 45964
+./ttcp -t -l1460 -n45964 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1460, nbuf=45964, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67107440 time=1843555 Mbps=291.209 I/Ocalls=45964
+ttcp-rbytes=67107440 time=1844328 Mbps=291.087 I/Ocalls=59088
+
+Processing Try Number with -D: 6
+MESSAGE_LENGTH: 1460
+NUMBER_MESSAGE: 45964
+./ttcp -t -l1460 -n45964 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1460, nbuf=45964, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67107440 time=2366522 Mbps=226.856 I/Ocalls=45964
+ttcp-rbytes=67107440 time=2367309 Mbps=226.781 I/Ocalls=54789
+
+Processing Try Number with -D: 7
+MESSAGE_LENGTH: 1460
+NUMBER_MESSAGE: 45964
+./ttcp -t -l1460 -n45964 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1460, nbuf=45964, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67107440 time=2385064 Mbps=225.092 I/Ocalls=45964
+ttcp-rbytes=67107440 time=2385859 Mbps=225.017 I/Ocalls=54728
+
+Processing Try Number with -D: 8
+MESSAGE_LENGTH: 1460
+NUMBER_MESSAGE: 45964
+./ttcp -t -l1460 -n45964 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1460, nbuf=45964, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67107440 time=2472681 Mbps=217.116 I/Ocalls=45964
+ttcp-rbytes=67107440 time=2473383 Mbps=217.055 I/Ocalls=54977
+
+Processing Try Number with -D: 9
+MESSAGE_LENGTH: 1460
+NUMBER_MESSAGE: 45964
+./ttcp -t -l1460 -n45964 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1460, nbuf=45964, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67107440 time=2050417 Mbps=261.829 I/Ocalls=45964
+ttcp-rbytes=67107440 time=2050525 Mbps=261.816 I/Ocalls=57911
+
+Processing Try Number with -D: 10
+MESSAGE_LENGTH: 1460
+NUMBER_MESSAGE: 45964
+./ttcp -t -l1460 -n45964 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1460, nbuf=45964, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67107440 time=2190570 Mbps=245.078 I/Ocalls=45964
+ttcp-rbytes=67107440 time=2191316 Mbps=244.994 I/Ocalls=56591
+
+
+Processing Try Number with -D: 1
+MESSAGE_LENGTH: 1461
+NUMBER_MESSAGE: 45933
+./ttcp -t -l1461 -n45933 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1461, nbuf=45933, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108113 time=1882110 Mbps=285.246 I/Ocalls=45933
+ttcp-rbytes=67108113 time=1882560 Mbps=285.178 I/Ocalls=59231
+
+Processing Try Number with -D: 2
+MESSAGE_LENGTH: 1461
+NUMBER_MESSAGE: 45933
+./ttcp -t -l1461 -n45933 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1461, nbuf=45933, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108113 time=2191288 Mbps=245 I/Ocalls=45933
+ttcp-rbytes=67108113 time=2191557 Mbps=244.97 I/Ocalls=57858
+
+Processing Try Number with -D: 3
+MESSAGE_LENGTH: 1461
+NUMBER_MESSAGE: 45933
+./ttcp -t -l1461 -n45933 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1461, nbuf=45933, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108113 time=2401080 Mbps=223.593 I/Ocalls=45933
+ttcp-rbytes=67108113 time=2401784 Mbps=223.528 I/Ocalls=55140
+
+Processing Try Number with -D: 4
+MESSAGE_LENGTH: 1461
+NUMBER_MESSAGE: 45933
+./ttcp -t -l1461 -n45933 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1461, nbuf=45933, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108113 time=1764687 Mbps=304.227 I/Ocalls=45933
+ttcp-rbytes=67108113 time=1764973 Mbps=304.177 I/Ocalls=59378
+
+Processing Try Number with -D: 5
+MESSAGE_LENGTH: 1461
+NUMBER_MESSAGE: 45933
+./ttcp -t -l1461 -n45933 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1461, nbuf=45933, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108113 time=2587592 Mbps=207.477 I/Ocalls=45933
+ttcp-rbytes=67108113 time=2588315 Mbps=207.419 I/Ocalls=52201
+
+Processing Try Number with -D: 6
+MESSAGE_LENGTH: 1461
+NUMBER_MESSAGE: 45933
+./ttcp -t -l1461 -n45933 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1461, nbuf=45933, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108113 time=2065972 Mbps=259.861 I/Ocalls=45933
+ttcp-rbytes=67108113 time=2066215 Mbps=259.83 I/Ocalls=56866
+
+Processing Try Number with -D: 7
+MESSAGE_LENGTH: 1461
+NUMBER_MESSAGE: 45933
+./ttcp -t -l1461 -n45933 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1461, nbuf=45933, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108113 time=1655284 Mbps=324.334 I/Ocalls=45933
+ttcp-rbytes=67108113 time=1655594 Mbps=324.273 I/Ocalls=60865
+
+Processing Try Number with -D: 8
+MESSAGE_LENGTH: 1461
+NUMBER_MESSAGE: 45933
+./ttcp -t -l1461 -n45933 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1461, nbuf=45933, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108113 time=1712552 Mbps=313.488 I/Ocalls=45933
+ttcp-rbytes=67108113 time=1712747 Mbps=313.453 I/Ocalls=59194
+
+Processing Try Number with -D: 9
+MESSAGE_LENGTH: 1461
+NUMBER_MESSAGE: 45933
+./ttcp -t -l1461 -n45933 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1461, nbuf=45933, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108113 time=2331940 Mbps=230.222 I/Ocalls=45933
+ttcp-rbytes=67108113 time=2332235 Mbps=230.193 I/Ocalls=54488
+
+Processing Try Number with -D: 10
+MESSAGE_LENGTH: 1461
+NUMBER_MESSAGE: 45933
+./ttcp -t -l1461 -n45933 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1461, nbuf=45933, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108113 time=2646879 Mbps=202.829 I/Ocalls=45933
+ttcp-rbytes=67108113 time=2647622 Mbps=202.772 I/Ocalls=54288
+
+
+Processing Try Number with -D: 1
+MESSAGE_LENGTH: 1462
+NUMBER_MESSAGE: 45902
+./ttcp -t -l1462 -n45902 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1462, nbuf=45902, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108724 time=1588965 Mbps=337.874 I/Ocalls=45902
+ttcp-rbytes=67108724 time=1589182 Mbps=337.828 I/Ocalls=60297
+
+Processing Try Number with -D: 2
+MESSAGE_LENGTH: 1462
+NUMBER_MESSAGE: 45902
+./ttcp -t -l1462 -n45902 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1462, nbuf=45902, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108724 time=2365719 Mbps=226.937 I/Ocalls=45902
+ttcp-rbytes=67108724 time=2366413 Mbps=226.871 I/Ocalls=53875
+
+Processing Try Number with -D: 3
+MESSAGE_LENGTH: 1462
+NUMBER_MESSAGE: 45902
+./ttcp -t -l1462 -n45902 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1462, nbuf=45902, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108724 time=1707700 Mbps=314.382 I/Ocalls=45902
+ttcp-rbytes=67108724 time=1707936 Mbps=314.338 I/Ocalls=59227
+
+Processing Try Number with -D: 4
+MESSAGE_LENGTH: 1462
+NUMBER_MESSAGE: 45902
+./ttcp -t -l1462 -n45902 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1462, nbuf=45902, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108724 time=2239424 Mbps=239.736 I/Ocalls=45902
+ttcp-rbytes=67108724 time=2239646 Mbps=239.712 I/Ocalls=58390
+
+Processing Try Number with -D: 5
+MESSAGE_LENGTH: 1462
+NUMBER_MESSAGE: 45902
+./ttcp -t -l1462 -n45902 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1462, nbuf=45902, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108724 time=2275655 Mbps=235.919 I/Ocalls=45902
+ttcp-rbytes=67108724 time=2276102 Mbps=235.872 I/Ocalls=58062
+
+Processing Try Number with -D: 6
+MESSAGE_LENGTH: 1462
+NUMBER_MESSAGE: 45902
+./ttcp -t -l1462 -n45902 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1462, nbuf=45902, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108724 time=1775649 Mbps=302.351 I/Ocalls=45902
+ttcp-rbytes=67108724 time=1775876 Mbps=302.313 I/Ocalls=58566
+
+Processing Try Number with -D: 7
+MESSAGE_LENGTH: 1462
+NUMBER_MESSAGE: 45902
+./ttcp -t -l1462 -n45902 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1462, nbuf=45902, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108724 time=1922030 Mbps=279.324 I/Ocalls=45902
+ttcp-rbytes=67108724 time=1922507 Mbps=279.255 I/Ocalls=59695
+
+Processing Try Number with -D: 8
+MESSAGE_LENGTH: 1462
+NUMBER_MESSAGE: 45902
+./ttcp -t -l1462 -n45902 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1462, nbuf=45902, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108724 time=1854612 Mbps=289.478 I/Ocalls=45902
+ttcp-rbytes=67108724 time=1854563 Mbps=289.486 I/Ocalls=58812
+
+Processing Try Number with -D: 9
+MESSAGE_LENGTH: 1462
+NUMBER_MESSAGE: 45902
+./ttcp -t -l1462 -n45902 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1462, nbuf=45902, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108724 time=2259100 Mbps=237.648 I/Ocalls=45902
+ttcp-rbytes=67108724 time=2259303 Mbps=237.626 I/Ocalls=55003
+
+Processing Try Number with -D: 10
+MESSAGE_LENGTH: 1462
+NUMBER_MESSAGE: 45902
+./ttcp -t -l1462 -n45902 uw1-320-00 -p12721 -D
+ttcp-t: buflen=1462, nbuf=45902, port=12721, sockbufsize=16384, tcp -> uw1-320-00
+16384
+ttcp-tbytes=67108724 time=2283474 Mbps=235.111 I/Ocalls=45902
+ttcp-rbytes=67108724 time=2284157 Mbps=235.041 I/Ocalls=55420
+
+

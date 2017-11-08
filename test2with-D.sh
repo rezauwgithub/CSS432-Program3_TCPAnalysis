@@ -1,0 +1,30 @@
+#!/bin/bash
+
+
+
+
+SERVER_HOST_NAME=$1
+PORT_NUMBER=$2
+
+NUMBER_MESSAGE=1048576
+
+for MESSAGE_LENGTH in 64 128 256 512 1024 2048 4096 8192
+do
+	for TRY_NUMBER in 1 2 3 4 5 6 7 8 9 10
+	do	
+		echo "Processing Try Number with -D:" $TRY_NUMBER 
+		echo "MESSAGE LENGTH:" $MESSAGE_LENGTH 
+		echo "NUMBER MESSAGE:" $NUMBER_MESSAGE
+  
+  
+    echo "./ttcp -t -l$MESSAGE_LENGTH -n$NUMBER_MESSAGE $SERVER_HOST_NAME -p$PORT_NUMBER -D"
+		./ttcp -t -l$MESSAGE_LENGTH -n$NUMBER_MESSAGE $SERVER_HOST_NAME -p$PORT_NUMBER -D
+		
+		echo ""
+	done
+
+	echo "" 
+
+	NUMBER_MESSAGE=$(($NUMBER_MESSAGE / 2))
+		
+done

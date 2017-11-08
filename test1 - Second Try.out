@@ -1,0 +1,25 @@
+1463017795.736943 IP (tos 0x0, ttl 64, id 50896, offset 0, flags [DF], proto TCP (6), length 60)
+    uw1-320-15.uwb.edu.53698 > uw1-320-00.uwb.edu.12721: Flags [S], cksum 0x8ecb (correct), seq 25014665, win 29200, options [mss 1460,sackOK,TS val 22837081 ecr 0,nop,wscale 7], length 0
+1463017795.736974 IP (tos 0x0, ttl 64, id 0, offset 0, flags [DF], proto TCP (6), length 60)
+    uw1-320-00.uwb.edu.12721 > uw1-320-15.uwb.edu.53698: Flags [S.], cksum 0x1823 (incorrect -> 0x1955), seq 2616836631, ack 25014666, win 28960, options [mss 1460,sackOK,TS val 135204917 ecr 22837081,nop,wscale 7], length 0
+1463017795.737185 IP (tos 0x0, ttl 64, id 50897, offset 0, flags [DF], proto TCP (6), length 52)
+    uw1-320-15.uwb.edu.53698 > uw1-320-00.uwb.edu.12721: Flags [.], cksum 0xb85c (correct), ack 1, win 229, options [nop,nop,TS val 22837081 ecr 135204917], length 0
+1463017795.737217 IP (tos 0x0, ttl 64, id 50898, offset 0, flags [DF], proto TCP (6), length 62)
+    uw1-320-15.uwb.edu.53698 > uw1-320-00.uwb.edu.12721: Flags [P.], cksum 0x9bae (correct), seq 1:11, ack 1, win 229, options [nop,nop,TS val 22837081 ecr 135204917], length 10
+1463017795.737229 IP (tos 0x0, ttl 64, id 53806, offset 0, flags [DF], proto TCP (6), length 52)
+    uw1-320-00.uwb.edu.12721 > uw1-320-15.uwb.edu.53698: Flags [.], cksum 0x181b (incorrect -> 0xb853), ack 11, win 227, options [nop,nop,TS val 135204918 ecr 22837081], length 0
+1463017795.737279 IP (tos 0x0, ttl 64, id 53807, offset 0, flags [DF], proto TCP (6), length 62)
+    uw1-320-00.uwb.edu.12721 > uw1-320-15.uwb.edu.53698: Flags [P.], cksum 0x1825 (incorrect -> 0x9ba5), seq 1:11, ack 11, win 227, options [nop,nop,TS val 135204918 ecr 22837081], length 10
+1463017795.737304 IP (tos 0x0, ttl 64, id 53808, offset 0, flags [DF], proto TCP (6), length 52)
+    uw1-320-00.uwb.edu.12721 > uw1-320-15.uwb.edu.53698: Flags [F.], cksum 0x181b (incorrect -> 0xb848), seq 11, ack 11, win 227, options [nop,nop,TS val 135204918 ecr 22837081], length 0
+1463017795.737461 IP (tos 0x0, ttl 64, id 50899, offset 0, flags [DF], proto TCP (6), length 52)
+    uw1-320-15.uwb.edu.53698 > uw1-320-00.uwb.edu.12721: Flags [.], cksum 0xb847 (correct), ack 11, win 229, options [nop,nop,TS val 22837081 ecr 135204918], length 0
+1463017795.737556 IP (tos 0x0, ttl 64, id 50900, offset 0, flags [DF], proto TCP (6), length 1502)
+    uw1-320-15.uwb.edu.53698 > uw1-320-00.uwb.edu.12721: Flags [P.], cksum 0x1dc5 (incorrect -> 0x7227), seq 11:1461, ack 12, win 229, options [nop,nop,TS val 22837081 ecr 135204918], length 1450
+1463017795.737573 IP (tos 0x0, ttl 64, id 50902, offset 0, flags [DF], proto TCP (6), length 52)
+    uw1-320-15.uwb.edu.53698 > uw1-320-00.uwb.edu.12721: Flags [F.], cksum 0xb29b (correct), seq 1461, ack 12, win 229, options [nop,nop,TS val 22837081 ecr 135204918], length 0
+1463017795.737615 IP (tos 0x0, ttl 64, id 53809, offset 0, flags [DF], proto TCP (6), length 52)
+    uw1-320-00.uwb.edu.12721 > uw1-320-15.uwb.edu.53698: Flags [.], cksum 0x181b (incorrect -> 0xb288), ack 1461, win 249, options [nop,nop,TS val 135204918 ecr 22837081], length 0
+1463017795.737635 IP (tos 0x0, ttl 64, id 53810, offset 0, flags [DF], proto TCP (6), length 52)
+    uw1-320-00.uwb.edu.12721 > uw1-320-15.uwb.edu.53698: Flags [.], cksum 0x181b (incorrect -> 0xb287), ack 1462, win 249, options [nop,nop,TS val 135204918 ecr 22837081], length 0
+

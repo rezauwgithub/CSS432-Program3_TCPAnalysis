@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+SERVER_HOST_NAME=uw1-320-00
+PORT_NUMBER=12721
+
+
+./runAllScriptsttcp.sh $SERVER_HOST_NAME $PORT_NUMBER
+

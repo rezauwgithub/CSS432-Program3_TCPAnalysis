@@ -1,0 +1,150 @@
+Processing Try Number with -D:
+MESSAGE LENGTH: 64
+NUMBER MESSAGE:
+    134659584 segments received
+    182763524 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+./ttcp -t -l64 -n uw1-320-00 -p12721 -D > /dev/null
+ttcp-tbytes=0 time=10 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=2 Mbps=0 I/Ocalls=1
+    134659591 segments received
+    182763534 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+
+Processing Try Number with -D:
+MESSAGE LENGTH: 64
+NUMBER MESSAGE:
+    134659595 segments received
+    182763537 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+./ttcp -t -l64 -n uw1-320-00 -p12721 -D > /dev/null
+ttcp-tbytes=0 time=11 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    134659602 segments received
+    182763547 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+
+Processing Try Number with -D:
+MESSAGE LENGTH: 64
+NUMBER MESSAGE:
+    134659606 segments received
+    182763550 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+./ttcp -t -l64 -n uw1-320-00 -p12721 -D > /dev/null
+ttcp-tbytes=0 time=10 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    134659613 segments received
+    182763560 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+
+Processing Try Number with -D:
+MESSAGE LENGTH: 64
+NUMBER MESSAGE:
+    134659619 segments received
+    182763565 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+./ttcp -t -l64 -n uw1-320-00 -p12721 -D > /dev/null
+ttcp-tbytes=0 time=10 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    134659629 segments received
+    182763578 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+
+Processing Try Number with -D:
+MESSAGE LENGTH: 64
+NUMBER MESSAGE:
+    134659636 segments received
+    182763583 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+./ttcp -t -l64 -n uw1-320-00 -p12721 -D > /dev/null
+ttcp-tbytes=0 time=10 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    134659646 segments received
+    182763596 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+
+Processing Try Number with -D:
+MESSAGE LENGTH: 64
+NUMBER MESSAGE:
+    134659652 segments received
+    182763601 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+./ttcp -t -l64 -n uw1-320-00 -p12721 -D > /dev/null
+ttcp-tbytes=0 time=9 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    134659662 segments received
+    182763614 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+
+Processing Try Number with -D:
+MESSAGE LENGTH: 64
+NUMBER MESSAGE:
+    134659668 segments received
+    182763620 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+./ttcp -t -l64 -n uw1-320-00 -p12721 -D > /dev/null
+ttcp-tbytes=0 time=10 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    134659678 segments received
+    182763636 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+
+Processing Try Number with -D:
+MESSAGE LENGTH: 64
+NUMBER MESSAGE:
+    134659684 segments received
+    182763643 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+./ttcp -t -l64 -n uw1-320-00 -p12721 -D > /dev/null
+ttcp-tbytes=0 time=10 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    134659694 segments received
+    182763659 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+
+Processing Try Number with -D:
+MESSAGE LENGTH: 64
+NUMBER MESSAGE:
+    134659700 segments received
+    182763666 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+./ttcp -t -l64 -n uw1-320-00 -p12721 -D > /dev/null
+ttcp-tbytes=0 time=10 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    134659710 segments received
+    182763682 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+
+Processing Try Number with -D:
+MESSAGE LENGTH: 64
+NUMBER MESSAGE:
+    134659716 segments received
+    182763689 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+./ttcp -t -l64 -n uw1-320-00 -p12721 -D > /dev/null
+ttcp-tbytes=0 time=7 Mbps=0 I/Ocalls=0
+ttcp-rbytes=0 time=1 Mbps=0 I/Ocalls=1
+    134659723 segments received
+    182763699 segments send out
+    3878 segments retransmited
+    12 bad segments received.
+
